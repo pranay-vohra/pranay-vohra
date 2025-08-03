@@ -17,6 +17,7 @@ I've also worked extensively on **backend integration**, including:
 
 ---
 
+
 ## 🧠 Core Skills
 
 - Swift, SwiftUI, MVVM  
@@ -29,6 +30,14 @@ I've also worked extensively on **backend integration**, including:
   - DBMS  
   - Operating Systems  
   - Computer Networks  
+
+---
+
+## 📱 Projects
+
+### [DropAt](https://github.com/pranay-vohra/DropAt)
+A location-based iOS app where users can leave geotagged messages (“drops”) that can only be unlocked at the original physical location.  
+**Tech:** Swift, SwiftUI, Firebase, Firestore, MVVM, MapKit
 
 ---
 
